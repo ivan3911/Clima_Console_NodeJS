@@ -12,6 +12,12 @@ Aplicacion de consola interactiva desarrollada en NodeJS que permite conocer el 
 * Aplicacion de consola con historial de busqueda
 * Uso de variables de entorno
 
+## Programa funcionando.
+
+Opción 1. Buscar ciudad
+
 ![ImagenConsole](https://github.com/ivan3911/Clima_Console_NodeJS/blob/main/assets/console.png)
+
+Opción 2. Historial
 
 ![ImagenConsoleHistory](https://github.com/ivan3911/Clima_Console_NodeJS/blob/main/assets/history.png)
