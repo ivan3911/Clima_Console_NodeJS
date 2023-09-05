@@ -12,4 +12,6 @@ Aplicacion de consola interactiva desarrollada en NodeJS que permite conocer el 
 * Aplicacion de consola con historial de busqueda
 * Uso de variables de entorno
 
-![ImagenChat](https://github.com/ivan3911/Clima_Console_NodeJS/blob/main/assets/console.png)
+![ImagenConsole](https://github.com/ivan3911/Clima_Console_NodeJS/blob/main/assets/console.png)
+
+![ImagenConsoleHistory](https://github.com/ivan3911/Clima_Console_NodeJS/blob/main/assets/history.png)
